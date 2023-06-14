@@ -195,13 +195,12 @@ Mappings for:
 | 6.4 | []() |
 | 6.5 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |
 | 6.6 | [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) |
-| 6.7 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
-| 6.8 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) |
-| 6.9 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) |
-| 6.10 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |
-| 6.11 | []() |
-| 6.12 | [443. String Compression](https://leetcode.com/problems/string-compression/) |
-| 6.13 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) |
+| 6.7 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) |
+| 6.8 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) |
+| 6.9 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |
+| 6.10 | []() |
+| 6.11 | [443. String Compression](https://leetcode.com/problems/string-compression/) |
+| 6.12 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) |
 
 # Linked Lists
 
@@ -336,15 +335,16 @@ Mappings for:
 | Problem | LeetCode |
 |---------|----------|
 | 15.1       | []() |
-| 15.2 | [51. N-Queens](https://leetcode.com/problems/n-queens/) |
-| 15.3 | [46. Permutations](https://leetcode.com/problems/permutations/) |
-| 15.4 | [78. Subsets](https://leetcode.com/problems/subsets/) |
-| 15.5 | []() |
-| 15.6 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 15.7 | [131. Palindrome Partioning](https://leetcode.com/problems/palindrome-partitioning/) |
-| 15.8 | []() |
-| 15.9 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
-| 15.10 | [89. Gray Code](https://leetcode.com/problems/gray-code/) |
+| 15.2 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 15.3 | [51. N-Queens](https://leetcode.com/problems/n-queens/) |
+| 15.4 | [46. Permutations](https://leetcode.com/problems/permutations/) |
+| 15.5 | [78. Subsets](https://leetcode.com/problems/subsets/) |
+| 15.6 | []() |
+| 15.7 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
+| 15.8 | [131. Palindrome Partioning](https://leetcode.com/problems/palindrome-partitioning/) |
+| 15.9 | []() |
+| 15.10 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
+| 15.11 | [89. Gray Code](https://leetcode.com/problems/gray-code/) |
 
 # Dynamic Programming
 
